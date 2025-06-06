@@ -1,14 +1,7 @@
 # Food donation system
 
 Created a web application which is useful for management of Food Donation and collection activities.
-
-|   |   | 
-|---|---|
-|  0 | [__👉 Live link__](https://food-donation.onrender.com)  |
-|  1 | [__👉 FrontEnd source code__](https://github.com/MangeshThakre/food-donation-frontend-FSJS)  |
-|  2 | [__👉 internship Offer Letter__](https://s3.ap-south-1.amazonaws.com/internship.ineuron.ai/letters/ef3b6155-5739-44d6-99c0-c5d7a8361ecf.pdf)  | 
-|  3 | [__👉 Wireframe document__](https://app.uizard.io/prototypes/EwqnPZjw10UyjKLq0n4V/player)  |  
-|  3 | [__👉 swagger api documentation__](https://food-donation.onrender.com/api-docs/)  |  
+|  1 | [__👉 swagger api documentation__](https://food-donation.onrender.com/api-docs/)  |  
 
 use this Admin cradentials for demo.
 email : boboca4190@ekcsoft.com
@@ -65,19 +58,5 @@ The System consists of three types of Users:
 * Agents can mark their collection upon collection of food from donor's home.
 * Agents can also view all those food donations which have been collected by them previously.
 * Agents can update their profile.
- 
- 
- 
- 
- 
-## Food donation Appliction ScreenShorts
-
-![alt text](https://res.cloudinary.com/dfyznrd0v/image/upload/v1673798522/Screenshot_2023-01-15_212237_prn0s3.png)
-![alt text](https://res.cloudinary.com/dfyznrd0v/image/upload/v1673798522/Screenshot_2023-01-15_203156_upus39.png)
-![alt text](https://res.cloudinary.com/dfyznrd0v/image/upload/v1673804286/Screenshot_2023-01-15_212659_vgagv9.png)
-![alt text](https://res.cloudinary.com/dfyznrd0v/image/upload/v1673798522/Screenshot_2023-01-15_203310_v0lq0d.png)
-![alt text](https://res.cloudinary.com/dfyznrd0v/image/upload/v1673798522/Screenshot_2023-01-15_212908_abkmwq.png)
-![alt text](https://res.cloudinary.com/dfyznrd0v/image/upload/v1673798523/Screenshot_2023-01-15_203353_eizxe8.png)
-![alt text](https://res.cloudinary.com/dfyznrd0v/image/upload/v1673812878/Screenshot_2023-01-16_013010_adoo9l.png)
 
 

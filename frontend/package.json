@@ -54,12 +54,12 @@
     "postcss": "^8.4.20",
     "tailwindcss": "^3.2.4"
   },
-  "description": " Getting Started with Create React App",
+  "description": "Food Donation Frontend",
   "main": "postcss.config.js",
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/AryanShukla12173/food-donation/issues"
   }
 }
